@@ -10,5 +10,5 @@ profiles_dd.txt: segmented copy number data
 
 ## Alternative ways to analyse data
 
-In addition to this R script, the copy number data can also be analysed using the [R2 web platform](http://r2.amc.nl/) and a [shiny web application](https://padpuydt.shinyapps.io/check_cn_in_hr_nb/). More information on how to use these tools can be found in the data descriptor paper (link will be added soon).
-# copynumber_HR_NB
+In addition to this R script, the copy number data can also be analysed using the [R2 web platform](http://r2.amc.nl/) and a [shiny web application](https://padpuydt.shinyapps.io/check_cn_in_hr_nb/). More information on how to use these tools can be found in the [data descriptor paper](https://www.nature.com/articles/sdata2018240).
+
