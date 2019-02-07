@@ -1,6 +1,6 @@
 # Copy number HR NB
 
-Explore copy number data and matching clinical information of 556 high-risk neuroblastoma patients using an R script and the R packages copynumber, biomaRt and survival. More information can be found in the data descriptor paper (link will be added soon).
+Explore copy number data and matching clinical information of 556 high-risk neuroblastoma patients using an R script and the R packages copynumber, biomaRt and survival. More information can be found in the [data descriptor paper](https://www.nature.com/articles/sdata2018240).
 
 ## Available files
 
